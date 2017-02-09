@@ -1,4 +1,4 @@
-# Points inclusion in Polygon test
+# Points in Polygon test
 ## 可用于测试某一坐标点是否在国内(使用百度地图)
 
 ## usage
