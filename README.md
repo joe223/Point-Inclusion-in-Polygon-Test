@@ -2,6 +2,9 @@
 ## 可用于测试某一坐标点是否在国内(使用百度地图)
 
 ## usage
+```
+    npm install piptest
+```
 ```javascript
     let arr = [
         {
