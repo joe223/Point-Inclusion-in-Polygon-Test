@@ -1,6 +1,6 @@
 {
   "name": "piptest",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Point inclusion in polygon test",
   "main": "dist/piptest.js",
   "scripts": {
