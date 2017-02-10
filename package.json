@@ -2,7 +2,7 @@
   "name": "piptest",
   "version": "1.0.2",
   "description": "Point inclusion in polygon test",
-  "main": "lib/index.js",
+  "main": "dist/piptest.js",
   "scripts": {
     "dev": "rollup -c -w",
     "watch": "watch 'rollup -c' ./lib",
