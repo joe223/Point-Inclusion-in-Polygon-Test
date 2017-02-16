@@ -1,6 +1,6 @@
 {
   "name": "piptest",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Point inclusion in polygon test",
   "main": "dist/piptest.js",
   "scripts": {
@@ -19,7 +19,13 @@
   },
   "homepage": "https://github.com/joe223/Point-Inclusion-in-Polygon-Test#readme",
   "keywords": [
-    "PNPOLY"
+    "point",
+    "in",
+    "polygon",
+    "test",
+    "coordinate",
+    "point-in-polygon",
+    "PIP"
   ],
   "devDependencies": {
     "babel-plugin-transform-runtime": "^6.15.0",

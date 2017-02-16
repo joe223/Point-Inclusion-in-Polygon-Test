@@ -9,7 +9,7 @@ export default {
     entry: './lib/index.js',
     plugins: [
         json(),
-        // uglify(),
+        uglify(),
         babel({
             exclude: 'node_modules/**',
             runtimeHelpers: true,
